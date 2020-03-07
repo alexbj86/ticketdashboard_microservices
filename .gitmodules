@@ -1,0 +1,6 @@
+[submodule "eureka-service"]
+	path = eureka-service
+	url = https://alexbut86@bitbucket.org/jalexb86/eureka-service.git
+[submodule "gateway-service"]
+	path = gateway-service
+	url = https://alexbut86@bitbucket.org/jalexb86/gateway-service.git
