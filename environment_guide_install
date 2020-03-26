@@ -1,0 +1,11 @@
+#### DOCKER ####
+
+sh sudo dnf install docker-ce
+sh sudo systemctl enable docker.service
+sh sudo systemctl start docker.service
+
+#### MONGO DB ####
+
+sh docker pull mongo (download mongodb image)
+sh docker run --network=ticketdashboard -itd --name=mongo mongo (added mongodb image in network)
+
