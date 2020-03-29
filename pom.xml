@@ -11,5 +11,6 @@
     <modules>
         <module>eureka-service</module>
         <module>gateway-service</module>
+        <module>dashboard-service</module>
     </modules>
 </project>
