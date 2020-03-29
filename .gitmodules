@@ -4,6 +4,3 @@
 [submodule "gateway-service"]
 	path = gateway-service
 	url = https://alexbut86@bitbucket.org/jalexb86/gateway-service.git
-[submodule "dashboard-service"]
-	path = dashboard-service
-	url = https://alexbut86@bitbucket.org/jalexb86/dashboard-service.git
