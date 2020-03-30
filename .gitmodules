@@ -7,3 +7,6 @@
 [submodule "dashboard-service"]
 	path = dashboard-service
 	url = https://alexbut86@bitbucket.org/jalexb86/dashboard-service.git
+[submodule "user-service"]
+	path = user-service
+	url = https://alexbut86@bitbucket.org/jalexb86/user-service.git
